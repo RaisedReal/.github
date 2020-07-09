@@ -5,9 +5,9 @@ Please include a summary of the change and which issue is fixed. Please also inc
 Fixes # (issue)
 
 ## Services Dependencicies (in order)
-- [ ] Subscription PR#link
-- [ ] Subscription PR#link
-- [ ] Subscription PR#link
+- [ ] Service(i.e subscription) PR#link
+- [ ] Service(i.e admin) PR#link
+- [ ] Service(i.e portal) PR#link
 
 ## Type of change
 
